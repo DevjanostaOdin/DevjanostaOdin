@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevjanostaOdin
+- 🌱 I’m currently learning Java on beginner level.
+- I use my github repository to store solutions for various java exercises.
+- 
+- Please be kind :)
